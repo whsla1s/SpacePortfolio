@@ -67,7 +67,7 @@ export const Skill_data = [
     },
     {
         skill_name: "Node js",
-        Image: "/node-js.png",
+        Image: "/nodejs.png",
         width: 80,
         height: 80,
     },
@@ -83,17 +83,12 @@ export const Socials = [
     {
         name: "Linkedin",
         src: "/linkedin.svg",
-        link: "https://www.linkedin.com/in/jenin-joseph/",
+        link: "https://www.linkedin.com/in/laís-rocha-a51878343/"
     },
     {
         name: "Github",
         src: "/github.svg",
-        link: "https://github.com/Jenin82",
-    },
-    {
-        name: "MuLearn",
-        src: "/mulearn.svg",
-        link: "https://app.mulearn.org/profile/jeninjoseph@mulearn",
+        link: "https://github.com/whsla1s"
     },
 ];
 
@@ -144,12 +139,29 @@ export const Frontend_skill = [
 
 export const Backend_skill = [
     {
+        skill_name: "Node js",
+        Image: "/nodejs.png",
+        width: 65,
+        height: 65,
+    },
+    {
+        skill_name: "Python",
+        Image: "/python.png",
+        width: 60,
+        height: 60,
+    },
+    {
+        skill_name: "C#",
+        Image: "/c-.png",
+        width: 60,
+        height: 60,
+    },
+    {
         skill_name: "Django",
         Image: "/django.svg",
         width: 60,
         height: 60,
     },
-
     {
         skill_name: "Postger SQL",
         Image: "/postger.png",
@@ -178,6 +190,12 @@ export const Backend_skill = [
 
 export const DevTools = [
     {
+        skill_name: "Power BI",
+        Image: "/power-bi.png",
+        width: 50,
+        height: 50,
+    },
+    {
         skill_name: "GitHub",
         Image: "/gitwhite.png",
         width: 50,
@@ -194,12 +212,6 @@ export const DevTools = [
         Image: "/figma.png",
         width: 40,
         height: 40,
-    },
-    {
-        skill_name: "Railway",
-        Image: "/railway.svg",
-        width: 50,
-        height: 50,
     },
     {
         skill_name: "VS Code",
